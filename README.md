@@ -1,2 +1,3 @@
 # Associations_Management
  ONEE Association Management System
+This project is a web-based application developed using Spring Boot and React to manage ONEE (Office National de l'Électricité et de l'Eau Potable) associations. It provides comprehensive tools for managing associations, from handling association centers to extracting invoices, monthly and annual reports...
